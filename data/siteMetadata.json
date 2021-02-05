@@ -1,17 +1,16 @@
 {
-  "title": "Next.js Starter Blog",
-  "author": "Tails Azimuth",
-  "headerTitle": "TailwindBlog",
-  "description": "A blog created with Next.js and Tailwind.css",
+  "title": "Home in the world wide webs",
+  "author": "Manuel Bichler",
+  "headerTitle": "Manuel's Blog",
+  "description": "I guess you know why you're here...",
   "language": "en-us",
-  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "siteUrl": "https://manuelbichler.com",
   "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
-  "image": "/static/images/avatar.png",
+  "image": "/static/images/manuel_b.jpg",
+  "logo": "/static/images/manuel.jpg",
   "socialBanner": "/static/images/twitter-card.png",
-  "email": "address@yoursite.com",
-  "github": "https://github.com",
-  "twitter": "https://twitter.com/Twitter",
-  "facebook": "https://facebook.com",
-  "youtube": "https://youtube.com",
-  "linkedin": "https://www.linkedin.com"
+  "email": "bichler@gmail.com",
+  "github": "https://github.com/Manubi",
+  "linkedin": "https://www.linkedin.com/in/mbichler/",
+  "twitter": "https://twitter.com/ManuelBichler"
 }
