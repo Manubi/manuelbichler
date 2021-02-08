@@ -9,7 +9,9 @@ export default function Auth() {
       {!session && (
         <>
           Not signed in <br />
-          <button onClick={() => signIn()}>Sign in</button>
+          <button className="m-4 text-white bg-blue-400 rounded" onClick={() => signIn()}>
+            Sign in
+          </button>
         </>
       )}
       {session && (
